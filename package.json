@@ -1,0 +1,22 @@
+{
+  "name": "spinwhistle",
+  "version": "1.0.0",
+  "description": "an app to record multitracks of audio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominic-taylor/spinwhistle.git"
+  },
+  "keywords": [
+    "spinwhistle"
+  ],
+  "author": "Dominic Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominic-taylor/spinwhistle/issues"
+  },
+  "homepage": "https://github.com/dominic-taylor/spinwhistle#readme"
+}
