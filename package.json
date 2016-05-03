@@ -1,7 +1,7 @@
 {
   "name": "spinwhistle",
   "version": "1.0.0",
-  "description": "an app to record multitracks of audio",
+  "description": "an app to record multitracks of audio in the browser",
   "main": "index.js",
   "scripts": {
     "test": "test"
