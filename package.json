@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/dominic-taylor/spinwhistle/issues"
   },
-  "homepage": "https://github.com/dominic-taylor/spinwhistle#readme"
+  "homepage": "https://github.com/dominic-taylor/spinwhistle#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
